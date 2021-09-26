@@ -1,4 +1,3 @@
-CODECOV_TOKEN='44b84364-4864-4b3c-b2d4-2ba7fff99adf'
 name: ci-cd
 
 # run the action on pull_requests and pushes
