@@ -25,12 +25,12 @@ class QueryOut(BaseModel):
 
 
 # class which is expected in the payload while re-training
-class FeedbackIn(BaseModel):
-    sepal_length: float
-    sepal_width: float
-    petal_length: float
-    petal_width: float
-    flower_class: str
+# class FeedbackIn(BaseModel):
+#     sepal_length: float
+#     sepal_width: float
+#     petal_length: float
+#     petal_width: float
+#     flower_class: str
 
 
 # Route definitions
